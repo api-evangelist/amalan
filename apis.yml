@@ -43,7 +43,7 @@ created: '2026-07-17'
 modified: '2026-07-17'
 tags:
 - Company
-- Financial-Services
+- Financial Services
 - Fintech
 - Debt Management
 - Lending
@@ -59,6 +59,7 @@ tags_raw:
 - Credit Score
 - Consumer
 - Indonesia
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
